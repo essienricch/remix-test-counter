@@ -1,4 +1,4 @@
 # Contract Address: 
 
-https://sepolia-blockscout.lisk.com/tx/0x530c2f88a52f5956cc567e1f08b7ef5667e85d3f40e3cd98dc7c6fad152768c0
+https://sepolia-blockscout.lisk.com/address/0x04E00233bAdFca085b7f4fceBd2aE3Cc217DebcA)
 
